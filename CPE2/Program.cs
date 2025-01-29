@@ -16,7 +16,7 @@ namespace ParqueDiversiones
 
 
 /*
-La calse Cabecera es simplemente visual, no afecta al sistema
+La clase Cabecera es simplemente visual, no afecta al sistema
 es una portada basica
 */
     public class Cabecera
