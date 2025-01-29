@@ -1,0 +1,14 @@
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.GeneratedMSBuildEditorConfig.editorconfig
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.AssemblyInfoInputs.cache
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.AssemblyInfo.cs
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.csproj.CoreCompileInputs.cache
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/bin/Debug/net9.0/CPE2
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/bin/Debug/net9.0/CPE2.deps.json
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/bin/Debug/net9.0/CPE2.runtimeconfig.json
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/bin/Debug/net9.0/CPE2.dll
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/bin/Debug/net9.0/CPE2.pdb
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.dll
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/refint/CPE2.dll
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.pdb
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/CPE2.genruntimeconfig.cache
+/home/datrixzn19/Desktop/CPE2-EstructuraDeDatos/CPE2/obj/Debug/net9.0/ref/CPE2.dll
